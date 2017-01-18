@@ -1,2 +1,0 @@
-# TSN
-Taiepa Social Network
