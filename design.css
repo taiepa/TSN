@@ -1,0 +1,244 @@
+/*
+	Taiepa Social Network
+	Coded by Taipea Social Network Developers.
+	developers.taiepa.pro - dev@taiepa.pro
+*/
+a:link
+{
+    	color:#000000;
+	text-decoration:none;
+}
+a:visited
+{
+	text-decoration:none;
+}
+a:hover
+{
+    	color:#000000;
+}
+a:active
+{
+	color:#000000;
+}
+body
+{
+	background-color:#eeeeee;
+        font-family:"Courier New", Courier, monospace;
+	font-size:14px;
+	text-align:center;
+	min-width:600px;
+}
+.image
+{
+	background-color:#ffffff;
+	border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+        position:absolute;
+        left:5px;
+        top:195px;
+        width:295px;
+        height:150px;
+}
+textarea
+{
+	color:#000000;
+	background-color:#ffffff;
+	border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+	outline:none;
+	resize:none;
+	height:150px;
+	width:90%;
+	padding:5px;
+}
+.search
+{
+	position:absolute;
+	top:0px;
+	right:0px;
+	color:#ffffff;
+	padding:5px;
+}
+.meny
+{
+	border:1px solid #000000;
+	box-shadow:5px 5px 5px #888888;
+	list-style-type:circle;
+        position:absolute;
+        left:5px;
+        top:65px;
+        width:285px;
+	text-align:left;
+	background-color:#ffffff;
+	padding:5px;
+}
+.login
+{
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:100px;
+}
+.register
+{
+        background-color:#ffffff;
+        position:absolute;
+        left:0px;
+        right:0px;
+	top:400px;
+}
+.last
+{
+	border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+	background-color:#ffffff;
+        position:absolute;
+        left:5px;
+	top:350px;
+        width:285px;
+        padding:5px;
+	font-size:12px;
+	text-align:left;
+	word-break:break-all;
+}
+.write
+{
+	margin:5px;
+        border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+        background-color:#ffffff;
+	position:absolute;
+	top:50px;
+	left:300px;
+	width:50%;
+        padding:5px;
+	min-width:600px;
+}
+.header
+{
+	border:1px solid #000000;
+	box-shadow:5px 5px 5px #888888;
+	word-break:break-all;
+	font-weight:bold;
+	color:#000000;
+	font-size:16px;
+        margin:5px;
+        position:absolute;
+        top:310px;
+        left:300px;
+        width:50%;
+        text-align:right;
+        background-color:#ffffff;
+        padding:5px;
+	min-width:600px;
+}
+.wall
+{
+	margin:5px;
+	word-break:break-all;
+	position:absolute;
+	top:345px;
+	left:300px;
+	width:50%;
+	text-align:left;
+	background-color:#ffffff;
+	border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+        padding:5px;
+	min-width:600px;
+}
+.likes
+{
+        position:absolute;
+        top:0px;
+	padding:5px;
+}
+.read_likes
+{
+	position:absolute;
+	text-align:center;
+        top:320px;
+        left:315px;
+	color:#000000;
+	text-align:center;
+}
+.read_message
+{
+        position:absolute;
+        left:5px;
+	top:615px;
+        width:285px;
+	text-align:left;
+	word-break:break-all;
+	font-size:12px;
+	border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+	background-color:#ffffff;
+	padding:5px;
+}
+.add_friend
+{
+	position:absolute;
+	left:160px;
+        padding:5px;
+	top:0px;
+}
+.select
+{
+	width:200px;
+	height:50px;
+	color:#ffffff;
+	outline:none;
+	border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+	background-color:#ffffff;
+	font-size:24px;
+	font-family:"Courier New", Courier, monospace;
+}
+.button:hover
+{
+	background-color:#615b5b;
+	color:#ffffff;
+}
+.button
+{
+	width:150px;
+	color:#ffffff;
+	background-color:#000000;
+	border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+	outline:none;
+	padding:5px;
+}
+.input_text
+{
+	outline:none;
+	border:1px solid #000000;
+        box-shadow:5px 5px 5px #888888;
+	background-color:#ffffff;
+	width:300px;
+	padding:15px;
+}
+hr
+{
+	border:1px solid #000000;
+	width:100%;
+}
+h1
+{
+	color:#000000;
+}
+.top
+{
+	height:50px;
+	box-shadow:5px 5px 5px #888888;
+	border-bottom:1px solid #000000;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	background-color:#807d7d;
+	color:#ffffff;
+	font-size:16px;
+	min-width:1024px;
+}
